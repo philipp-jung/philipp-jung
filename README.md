@@ -1,6 +1,6 @@
-### Hello World, I'm Philipp 👋
+### Hey There 👋
 
-I'm Philipp Jung, a data engineer living in Berlin. I'm interested in anything related to data, which, more likely than not, I'm currently working on!
+I'm Philipp, a data engineer living in Berlin. I'm interested in anything related to data, which, more likely than not, I'm currently working on!
 
 - ✍️ I blog at [pljung.de](https://pljung.de), mostly about (you guessed it) data, but really about anything that interestes me.
 - 🧑‍🎓 I work as a researcher at Prof. Felix Bießmann's [Cognitive Algorithms Lab](https://prof.bht-berlin.de/biessmann/calgo-lab-team/) over at Berliner Hochschule für Technik.
